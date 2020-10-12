@@ -1,6 +1,6 @@
-[Ссылка на проект]()
+[Ссылка на проект](https://ivansergeev1.github.io/ahj-http-3th)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/faxg11rwdpn7i3u8?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-http-3th)
 
 ### Image Manager
 
