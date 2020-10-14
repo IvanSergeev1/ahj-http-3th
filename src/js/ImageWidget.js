@@ -3,7 +3,7 @@ export default class ImageWidget {
     this.fileBox = document.querySelector('.overlap');
     this.input = document.getElementById('file');
     this.previewBox = document.querySelector('.preview-box');
-    this.server = 'https://qa-netology-imageserver.herokuapp.com/';
+    this.server = 'https://ahj-http-3back.herokuapp.com/';
   }
 
   init() {
